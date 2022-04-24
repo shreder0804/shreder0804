@@ -9,11 +9,11 @@
 
 ## Tech Stacks
 
-### Programming Language
+### Programming Languages
 
 <img alt="HTML5" src ="https://img.shields.io/badge/html5-D35936.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/css3-4675A6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Javascript" src ="https://img.shields.io/badge/javascript-F3DF51.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 
-### Framework
+### Frameworks
 
 <img alt="React" src ="https://img.shields.io/badge/react-4675A6.svg?&style=for-the-badge&logo=react"/>
 
