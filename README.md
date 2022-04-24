@@ -27,10 +27,10 @@
 
 ## Pins
 
-[![algorithm](https://github-readme-stats.vercel.app/api/pin/?username=shreder0804&repo=algorithm&show_owner=true)](https://github.com/shreder0804/algorithm)
+[![algorithm](https://github-readme-stats.vercel.app/api/pin/?username=shreder0804&repo=algorithm&show_owner=true&theme=radical)](https://github.com/shreder0804/algorithm)
 
 ## Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreder0804&show_icons=true&theme=radical&line_height=20&layout=default&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreder0804&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreder0804&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
