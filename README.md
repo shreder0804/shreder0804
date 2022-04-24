@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshreder0804&count_bg=%23AA3DC8&title_bg=%23555555&icon=&icon_color=%238033FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Indroduce
+## Introduce
 
 - 😎 안녕하세요. 프론트엔드 개발자를 목표로 하는 황재성입니다.
 - 🌏 겸손함과 긍정적인 태도로 동료와 함께 정보를 공유하며 성장하는 것을 큰 가치로 둡니다.
