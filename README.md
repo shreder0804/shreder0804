@@ -27,7 +27,7 @@
 
 ## Pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreder0804&repo=algorithm)](https://github.com/shreder0804/algorithm)
+[![algorithm](https://github-readme-stats.vercel.app/api/pin/?username=shreder0804&repo=algorithm&show_owner=true)](https://github.com/shreder0804/algorithm)
 
 ## Stats
 
