@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshreder0804&count_bg=%23AA3DC8&title_bg=%23555555&icon=&icon_color=%238033FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **shreder0804/shreder0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
