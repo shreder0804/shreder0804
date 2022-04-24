@@ -7,6 +7,10 @@
 - 🍎 시작은 미약하지만 마무리될 때까지 어떻게든 의미 있는 성과를 도출해내려 노력합니다.
 - 💻 오랜 시간이 지나도 쓰일 수 있는 효율적인 코드를 만드는 것이 목표입니다.
 
+## Pins
+
+[![algorithm](https://github-readme-stats.vercel.app/api/pin/?username=shreder0804&repo=algorithm&show_owner=true&theme=radical)](https://github.com/shreder0804/algorithm)
+
 ## Tech Stacks
 
 ### Programming Languages
@@ -24,10 +28,6 @@
 ### Others
 
 <img alt="Github" src ="https://img.shields.io/badge/github-303030.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Amazon s3" src ="https://img.shields.io/badge/amazon aws s3-F3DF51.svg?&style=for-the-badge&logo=amazon s3&logoColor=black"/> <img alt="Notion" src ="https://img.shields.io/badge/notion-f7f6f3.svg?&style=for-the-badge&logo=notion&logoColor=black"/>
-
-## Pins
-
-[![algorithm](https://github-readme-stats.vercel.app/api/pin/?username=shreder0804&repo=algorithm&show_owner=true&theme=radical)](https://github.com/shreder0804/algorithm)
 
 ## Stats
 
