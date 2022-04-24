@@ -25,8 +25,12 @@
 
 <img alt="Github" src ="https://img.shields.io/badge/github-303030.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Amazon s3" src ="https://img.shields.io/badge/amazon aws s3-F3DF51.svg?&style=for-the-badge&logo=amazon s3&logoColor=black"/> <img alt="Notion" src ="https://img.shields.io/badge/notion-f7f6f3.svg?&style=for-the-badge&logo=notion&logoColor=black"/>
 
+## Pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreder0804&repo=algorithm)](https://github.com/shreder0804/algorithm)
+
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreder0804)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreder0804&show_icons=true&theme=radical&line_height=20&layout=default&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreder0804)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreder0804&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
