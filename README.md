@@ -10,6 +10,7 @@
 ## Pins
 
 [![algorithm](https://github-readme-stats.vercel.app/api/pin/?username=shreder0804&repo=algorithm&show_owner=true&theme=radical)](https://github.com/shreder0804/algorithm)
+[![the-art-of-react](https://github-readme-stats.vercel.app/api/pin/?username=shreder0804&repo=algorithm&show_owner=true&theme=radical)](https://github.com/shreder0804/the-art-of-react)
 
 ## Tech Stacks
 
