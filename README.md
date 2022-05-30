@@ -11,7 +11,7 @@
 
 [![algorithm](https://github-readme-stats.vercel.app/api/pin/?username=shreder0804&repo=algorithm&show_owner=true&theme=radical)](https://github.com/shreder0804/algorithm)
 [![the-art-of-react](https://github-readme-stats.vercel.app/api/pin/?username=shreder0804&repo=the-art-of-react&show_owner=true&theme=radical)](https://github.com/shreder0804/the-art-of-react)
-
+[![eip-practical](https://github-readme-stats.vercel.app/api/pin/?username=shreder0804&repo=eip-practical&show_owner=true&theme=radical)](https://github.com/shreder0804/eip-practical)
 ## Tech Stacks
 
 ### Programming Languages
