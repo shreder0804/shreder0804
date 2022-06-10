@@ -16,7 +16,7 @@
 
 ### Programming Languages
 
-<img alt="HTML5" src ="https://img.shields.io/badge/html5-D35936.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/css3-4675A6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Javascript" src ="https://img.shields.io/badge/javascript-F3DF51.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="Typescript" src ="https://img.shields.io/badge/typescript-F3DF51.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/html5-D35936.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/css3-4675A6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Javascript" src ="https://img.shields.io/badge/javascript-F3DF51.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="Typescript" src ="https://img.shields.io/badge/typescript-4675A6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
 ### Frameworks
 
